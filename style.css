@@ -1,0 +1,23 @@
+
+.menu {
+  background: #2b2b2b;
+
+  color: #fff;
+  padding: 20px 0;
+}
+.list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 20px;
+  height: 70px;
+}
+.word a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 400;
+}
+.bold {
+  font-weight: bold;
+}
